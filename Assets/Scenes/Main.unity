@@ -3985,7 +3985,7 @@ MonoBehaviour:
   MaxElevationAngle: 85
   MinElevationAngle: 0
   OrbitalAngle: 0
-  CameraMode: 0
+  CameraMode: 1
   MovementSmoothing: 1
   RotationSmoothing: 0
   MovementSmoothingValue: 25
