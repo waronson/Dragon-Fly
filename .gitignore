@@ -1,0 +1,9 @@
+*.csproj
+*.sln
+.vs/
+Assets/AmplifyShaderEditor/
+Assets/AmplifyShaderEditor.meta
+Library/
+obj/
+Builds/
+Logs/
